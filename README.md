@@ -12,6 +12,7 @@
 * [Spatial components of molecular tissue biology](https://www.nature.com/articles/s41587-021-01182-1)
 * [Methods and applications for single-cell and spatial multi-omics](https://www.nature.com/articles/s41576-023-00580-2)
 * [The dawn of spatial omics](https://pubmed.ncbi.nlm.nih.gov/37535749/)
+* [Spatial metabolomics: from a niche field towards a driver of innovation] (https://www.nature.com/articles/s42255-023-00881-0)
   
 ### Tutorials
 
